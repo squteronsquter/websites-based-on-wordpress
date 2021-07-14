@@ -47,3 +47,9 @@ https://www.digitalocean.com/
    5.2 Themeforest
 
    https://themeforest.net/category/wordpress
+
+## Inne ważne informacje związane z budową stron
+
+### Protokoły: SSH, SFTP, FTP, SMTP, POP3, Imap, HTTP, HTTPS
+
+### Popularne porty: 20, 22, 80, 8080, 443, 465, 995 (POP3), 993 (Imap)
