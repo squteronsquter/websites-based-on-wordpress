@@ -50,6 +50,12 @@ https://www.digitalocean.com/
 
 ## Inne ważne informacje związane z budową stron
 
-### Protokoły: SSH, SFTP, FTP, SMTP, POP3, Imap, HTTP, HTTPS
+### Protokoły:
 
-### Popularne porty: 20, 22, 80, 8080, 443, 465, 995 (POP3), 993 (Imap)
+HTTP, HTTPS, SSH, SFTP, FTP, SMTP, POP3, IMAP
+
+### Popularne porty:
+
+20, 21, 22, 80, 8080, 443, 465 (SMTP), 995 (POP3), 993 (Imap)
+
+### Standard services + ports + protocols
