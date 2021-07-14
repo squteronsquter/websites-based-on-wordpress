@@ -68,28 +68,32 @@ Windows:
 
 1. PuTTY:
 
-https://www.putty.org/
+   https://www.putty.org/
 
 2. Built in client
 
-https://www.howtogeek.com/336775/how-to-enable-and-use-windows-10s-built-in-ssh-commands/
+   https://www.howtogeek.com/336775/how-to-enable-and-use-windows-10s-built-in-ssh-commands/
 
 3. FTP - FileZilla
 
-https://filezilla-project.org/
+   https://filezilla-project.org/
 
 ## Webservers
 
-1. Apache
+1. Apache:
 
-https://httpd.apache.org/
+   https://httpd.apache.org/
 
-2. Nginx
+2. Nginx:
 
-3. OpenLiteSpeed
+   https://www.nginx.com/
 
-https://openlitespeed.org/
+3. OpenLiteSpeed:
+
+   https://openlitespeed.org/
 
 ### Porównanie serwerów Apache vs Nginx
 
 https://hostmark.pl/knowledgebase/143/Apache-kontra-nginx--praktyczne-porownanie-serwerow-www.html
+
+## Konfiguracja Apache i Nginx
