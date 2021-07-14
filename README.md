@@ -111,3 +111,11 @@ https://hostmark.pl/knowledgebase/143/Apache-kontra-nginx--praktyczne-porownanie
 2. Linux Nginx MySQL PHP
 
    https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lemp-on-ubuntu-20-04
+
+## WooCommerce - Sklepy oparte o WordPress
+
+https://woocommerce.com/
+
+https://woocommerce.com/products/
+
+## Social media and newsletter integrations:
