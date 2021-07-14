@@ -100,7 +100,7 @@ https://hostmark.pl/knowledgebase/143/Apache-kontra-nginx--praktyczne-porownanie
 
 ## PHP Versions
 
-## MySQl / MariaDB
+## MySQL / MariaDB
 
 ## LAMP/LEMP - on Ubuntu
 
