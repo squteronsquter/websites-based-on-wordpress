@@ -58,4 +58,22 @@ HTTP, HTTPS, SSH, SFTP, FTP, SMTP, POP3, IMAP
 
 20, 21, 22, 80, 8080, 443, 465 (SMTP), 995 (POP3), 993 (Imap)
 
-### Standard services + ports + protocols
+### Standard services + ports + protocols:
+
+https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
+
+## Software used to communicate over ssh, sftp, ftp
+
+Windows:
+
+1. PuTTY:
+
+https://www.putty.org/
+
+2. Built in client
+
+https://www.howtogeek.com/336775/how-to-enable-and-use-windows-10s-built-in-ssh-commands/
+
+3. FTP - FileZilla
+
+https://filezilla-project.org/
