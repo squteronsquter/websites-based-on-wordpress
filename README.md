@@ -114,8 +114,22 @@ https://hostmark.pl/knowledgebase/143/Apache-kontra-nginx--praktyczne-porownanie
 
 ## WooCommerce - Sklepy oparte o WordPress
 
-https://woocommerce.com/
+1. Woocommerce:
 
-https://woocommerce.com/products/
+   https://woocommerce.com/
+
+2. WooCommerce extensions:
+
+   https://woocommerce.com/products/
 
 ## Social media and newsletter integrations:
+
+1. Mailchimp:
+
+   https://mailchimp.com/
+
+2. PHPList
+
+   https://www.phplist.org/
+
+## Other stuff
