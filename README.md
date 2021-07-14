@@ -78,6 +78,10 @@ Windows:
 
    https://filezilla-project.org/
 
+4. Alternative ftp clients:
+
+   https://alternativeto.net/software/forklift/?platform=windows
+
 ## Webservers
 
 1. Apache:
