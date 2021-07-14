@@ -97,3 +97,17 @@ Windows:
 https://hostmark.pl/knowledgebase/143/Apache-kontra-nginx--praktyczne-porownanie-serwerow-www.html
 
 ## Konfiguracja Apache i Nginx
+
+## PHP Versions
+
+## MySQl / MariaDB
+
+## LAMP/LEMP - on Ubuntu
+
+1. Linux Apache MySQL PHP
+
+   https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04
+
+2. Linux Nginx MySQL PHP
+
+   https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lemp-on-ubuntu-20-04
